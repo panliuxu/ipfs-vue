@@ -1,35 +1,29 @@
 # covid_19_front_end
 
-This template should help get you started developing with Vue 3 in Vite.
+## 基本配置
 
-## Recommended IDE Setup
+- vue3 + vite + eslint + prettier
+- editorconfig
+- husky
+- commitizen
+- commitlint
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.vscode-typescript-vue-plugin).
+提交代码：
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```bash
+git add .
+npm run commit
 ```
 
-### Compile and Hot-Reload for Development
+## ui
 
-```sh
-npm run dev
-```
+- normalize.css
+- ant-design-vue
 
-### Compile and Minify for Production
+ant-design-vue 采用按需加载
 
-```sh
-npm run build
-```
+## 请求库
 
-### Lint with [ESLint](https://eslint.org/)
+- axios
 
-```sh
-npm run lint
-```
+简单封装
