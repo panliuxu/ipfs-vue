@@ -1,4 +1,4 @@
-# Covid Mange Admin Vue
+# Covid Manage Admin Vue
 
 ## 基本配置
 

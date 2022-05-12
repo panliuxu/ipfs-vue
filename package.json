@@ -1,5 +1,5 @@
 {
-  "name": "covid_19_front_end",
+  "name": "covid-manage-admin-vue",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

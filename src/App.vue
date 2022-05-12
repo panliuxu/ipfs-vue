@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <h1>covid_19_front_end</h1>
+  <h1>covid-manage-admin-vue</h1>
 </template>
 
 <style></style>
