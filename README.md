@@ -1,4 +1,4 @@
-# covid_19_front_end
+# Covid Mange Admin Vue
 
 ## 基本配置
 
