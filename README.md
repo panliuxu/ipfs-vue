@@ -2,7 +2,7 @@
 
 ## 基本配置
 
-- vue3 + vite + eslint + prettier
+- vue3 + vite + eslint + prettier + vue-router + vuex
 - editorconfig
 - husky
 - commitizen
