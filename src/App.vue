@@ -1,7 +1,11 @@
 <script setup></script>
 
 <template>
-  <h1>covid-manage-admin-vue</h1>
+  <router-view></router-view>
 </template>
 
-<style></style>
+<style>
+#app {
+  height: 100vh;
+}
+</style>
